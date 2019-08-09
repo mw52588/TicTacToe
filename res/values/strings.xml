@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TicTacToe</string>
+    <string name="app_name2">Credits</string>
+    <string name="app_name1">Score Board</string>
+    <string name="GamePlayed">Number of games played:</string>
+    <string name="winStats">Player winning stats:</string>
+    <string name="goBack">Go Back</string>
+    <string name="noWin"></string>
+    <string name="congratsP1">Congratulations Player 1 Wins!</string>
+    <string name="congratsP2">Congratulations Player 2 Wins!</string>
+    <string name="player1">Player 1:</string>
+    <string name="player2">Player 2:</string>
+    <string name="player1Wins">Player #1 Wins</string>
+    <string name="player2Wins">Player #2 Wins</string>
+    <string name="tie">Players Tied.</string>
+    
+    <string name="scoreLabel">Score</string>
+    <string name="creditLabel">Credits</string>
+    <string name="resetLabel">Reset</string>
+    <string name="quitLabel">Quit</string>
+    <string name="creditsLabelMessage">Credits: Kevin AND Matt</string>
+    <string name="FirstTurn">Player1 Turn.</string>
+    <string name="Player1_Go">Player1 Turn.</string>
+    <string name="Player2_Go">Player2 Turn.</string>
+
+    <!-- For CreditsActivity -->
+    <string name="credits">Credits</string>
+    <string name="prog">Programmers: </string>
+    <string name="kevin">Kevin</string>
+    <string name="matt">Matt</string>
+
+</resources>
